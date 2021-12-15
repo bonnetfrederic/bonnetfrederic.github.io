@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: url(./assets/img/under-construction.jpg) center/cover;
+  height: 100vh;
+  overflow: hidden;
+}
