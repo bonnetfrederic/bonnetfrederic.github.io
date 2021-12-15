@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <p>
-    <img src="./assets/img/under-construction.png" alt="Logo" width="80" height="80">
+    <img src="./assets/img/under-construction.png" alt="Logo">
  </p>
 
   <h3 align="center">Under construction</h3>
